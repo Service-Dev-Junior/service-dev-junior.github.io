@@ -198,7 +198,8 @@
   &.p1:hover ~ .c1,
   &.p2:hover ~ .c2,
   &.p3:hover ~ .c3,
-  &.p4:hover ~ .c4 {
+  &.p4:hover ~ .c4, 
+  &.p5:hover ~ .c5 {
     display: block;
   }
 }
