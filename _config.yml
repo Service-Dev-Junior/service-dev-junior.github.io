@@ -1,13 +1,13 @@
 # Site settings ...
-uri: domain.com
-url: https://domain.com
-name: Your name
-title: Mangan Jekyll Theme
-email: example@domain.com
-author: username
+uri: service-dev-junior.github.io 
+url: https://service-dev-junior.github.io
+name: ServiceDevJunior
+title: 서비스개발본부 주니어
+email: supreme2705@daou.co.kr
+author: servicedev
 baseurl: ""
 keywords: "Your, Keyword, Here"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione nihil, velit odio quia autem quos. Natus itaque sint, nisi fuga dolorum. Iste ea cumque, aliquam dignissimos vitae labore atque minima?"
+description: "서비스 개발 본부 주니어들의 블로그입니다."
 social_username: username
 
 # Build settings ...
